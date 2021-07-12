@@ -1,7 +1,5 @@
 
 User-agent: *
-Allow: */$
-Allow: *.html
-Disallow: *
+Disallow: /images/
 
 Sitemap: https://www.versivo.it/sitemap.xml
